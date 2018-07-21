@@ -1,2 +1,2 @@
 # Modelling-and-Prediction-of-movies
-In this project a movies data set is given and I have made predictions of Rotten tomatoes of movies, data cleaning and Exploratory Data analysis is also done to gain some insights
+In this project, a data set containing information about 650 movies is given and I have done some cleaning, exploratory data analysis to gain some interesting insights from the data and finally made a model to predict Rotten Tomatoes Rating of movies based on training data.
